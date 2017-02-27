@@ -1,3 +1,6 @@
+###hai saya sudah edit
+
+
 # You're free to implement the function my_mean however you want, as long as it
 # returns the average of all of the numbers in `my_vector`.
 #
