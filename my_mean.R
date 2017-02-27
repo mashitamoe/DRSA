@@ -23,6 +23,7 @@
 my_mean <- function(my_vector) {
   # Write your code here!
   # Remember: the last expression evaluated will be returned! 
+  # MOE test
   sum(c(my_vector))/length(c(my_vector))
   
 }
